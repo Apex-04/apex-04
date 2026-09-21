@@ -11,7 +11,7 @@ Software Developer, Linux User, and passionate maker in my Sophomore year in Com
 **Eclipselib:**
 A Library of different projects, and documentation, built around the Eclipselib-Codebase, Bluebox, and Swerve Module System
 
-**Eclipsewiki:**
+**[Eclipsewiki](https://apex04.codeberg.page/Eclipsewiki/):**
 Documentation site and Notebook for Eclipselib
 
 **Stadust-Dots:**
