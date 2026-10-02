@@ -7,6 +7,8 @@
 ## About Me
 Software Developer, Linux User, and passionate maker in my Sophomore year in Computer Science at the University of Maine in Orono, I also lead Software, R&D, and Documention on VURC BBR1 where we qualified for Worlds in 2026. 
 
+[All My Socials](https://apex04.codeberg.page/) 
+
 ## Active Projects
 **Eclipselib:**
 A Library of different projects, and documentation, built around the Eclipselib-Codebase, Bluebox, and Swerve Module System
