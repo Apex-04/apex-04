@@ -9,11 +9,15 @@ Software Developer, Linux User, and passionate maker in my Sophomore year in Com
 
 [All My Socials](https://apex04.codeberg.page/) 
 
+
+![Top Languages](./languages.svg)
+last updated 11/10/2026
+
 ## Active Projects
 **Eclipselib:**
 A Library of different projects, and documentation, built around the Eclipselib-Codebase, Bluebox, and Swerve Module System
 
-**[Eclipsewiki](https://apex04.codeberg.page/Eclipsewiki/):**
+**[Eclipsewiki](https://apex04.codeberg.page/Eclipsewiki/):** 
 Documentation site and Notebook for Eclipselib
 
 **Stadust-Dots:**
