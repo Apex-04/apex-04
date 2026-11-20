@@ -11,7 +11,7 @@ Software Developer, Linux User, and passionate maker in my Sophomore year in Com
 
 
 ![Top Languages](./languages.svg)
-last updated 11/10/2026
+last updated 11/19/2026
 
 ## Active Projects
 **Eclipselib:**
